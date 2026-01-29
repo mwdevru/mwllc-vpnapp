@@ -1,19 +1,23 @@
-# MW LLC VPN Installer
+# MW LLC VPN
 
-Version: 1.0.0
-Build date: 2026-01-29
-File: MWLLC-VPN-Setup.exe
+Официальный установщик для Windows.
 
-## Download
-- Get the latest installer from this repository.
+## Скачивание
+- Файл: `MWLLC-VPN-Setup.exe`
+- Версия: 1.0.0
+- Дата сборки: 2026-01-29
 
-## Install
-1. Run `MWLLC-VPN-Setup.exe`.
-2. Allow the installer to make changes if prompted.
-3. Launch MW LLC from the Start menu or desktop shortcut.
+## Установка
+1. Запустите `MWLLC-VPN-Setup.exe`.
+2. Подтвердите запрос Windows, если он появится.
+3. После установки откройте MW LLC через меню Пуск или ярлык.
 
-## System requirements
-- Windows 10/11 x64
+## Системные требования
+- Windows 10/11 (x64)
 
-## Checksums
+## Проверка целостности
 - SHA256: `91CA50778A32F7C3E4D5FB085D2A98AB4874691FF3245E8AB9089D8BFCAFE946`
+
+## Примечания
+- Установщик не требует дополнительных действий.
+- Для работы VPN может понадобиться доступ администратора.
